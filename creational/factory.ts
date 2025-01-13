@@ -81,3 +81,5 @@ function createFactory(type: FactoryType) {
 */
 appFactory(createFactory('mastodon'));
 appFactory(createFactory('rhino'));
+
+export {};
